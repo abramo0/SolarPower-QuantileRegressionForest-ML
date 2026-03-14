@@ -14,11 +14,13 @@ project-root/
 │   ├── pv_trainingset.csv  
 │   └── pv_testset.csv  
 │  
-├── results/  
+├── images/  
 │   ├── data_analysis_with_outliers.jpg  
 │   ├── data_analysis_without_outliers.jpg  
 │   ├── comparison_r2_mse.jpg  
 │   └── ...  
+├── results/  
+|    ├── results.txt  
 │  
 ├── main.py  
 ├── requirements.txt  

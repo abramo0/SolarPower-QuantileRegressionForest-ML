@@ -19,6 +19,7 @@ project-root/
 │   ├── data_analysis_without_outliers.jpg  
 │   ├── comparison_r2_mse.jpg  
 │   └── ...  
+|  
 ├── results/  
 │   └── data_results.txt  
 │  

@@ -42,8 +42,8 @@ project-root/
 Clone the repository:
 
 ```bash
-git clone https://github.com/abramo0/SolarPower-QuantileRegressionForest-ML-Thesis.git
-cd SolarPower-QuantileRegressionForest-ML-Thesis
+git clone https://github.com/abramo0/SolarPower-QuantileRegressionForest-ML.git
+cd SolarPower-QuantileRegressionForest-ML
 ```
 
 Create a virtual environment (optional but recommended):

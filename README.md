@@ -108,4 +108,4 @@ This project is licensed under the MIT License
 ## 👤 About Me
 I am passionate about Machine Learning, data analysis, and energy forecasting.  
 
-🔗 **LinkedIn:** [Abramo Azer](www.linkedin.com/in/abramo-azer-229610299)
+🔗 **LinkedIn:** [Abramo Azer](https://www.linkedin.com/in/abramo-azer-229610299/)

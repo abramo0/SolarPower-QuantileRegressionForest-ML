@@ -1,6 +1,6 @@
 # PV Power Prediction using Machine Learning
 
-![Python](https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python&logoColor=white)
 
 This repository contains a **photovoltaic power prediction project** using various regression models, including **linear, polynomial, decision trees, and quantile random forests**.
 The project is implemented in **Python** and leverages libraries such as `scikit-learn`, `optuna`, `pandas`, `numpy`, `matplotlib`, and `seaborn` for analysis, model optimization, and visualization.
